@@ -1,0 +1,20 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2;
+    padding: 3.5rem 4rem;
+    height: 80px;
+}
+nav li{
+    list-style: none;
+
+}
+nav ul{
+    display: flex;
+    gap: 1.25rem;
+    color: #4D5154;
+}
+li:hover{
+    color:#127C71;
+}

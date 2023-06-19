@@ -1,0 +1,28 @@
+.enjoyable{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap:55px;
+    padding: 4rem;
+}
+.learning{
+    display: flex ;
+    gap: 20px;
+}
+.inner-learning{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 10px;
+   padding: 20px;
+}
+.learn{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    
+}
+.learn h2{
+    font-size: 3.5rem;
+}
+.inner-learning h4{
+    color: #FFAF35;
+}

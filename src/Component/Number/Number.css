@@ -1,0 +1,20 @@
+.num-text{
+    padding: 2rem 3.25rem;
+   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    /* min-height: 100vh; */
+    display: flex;
+    justify-content: space-around;
+    width: 1200px;
+    margin: auto;
+    border-radius: 10px;
+    line-height: 55px;
+}
+.head-Num{
+    color:#FFAF35;
+    font-size: 2.5rem;
+}
+h5{
+    color: #4D5154;
+    font-size: 1.05rem
+  
+}

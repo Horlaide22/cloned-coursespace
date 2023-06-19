@@ -1,0 +1,19 @@
+.hero-txt{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 60px;
+    
+}
+.text{
+    font-size: 80px;
+}
+.p-txt{
+    font-size: 15px;
+    color: #4D5154;
+}
+.heroBtn{
+ display: flex;
+ flex-direction: row;
+ gap: 20px;  
+}

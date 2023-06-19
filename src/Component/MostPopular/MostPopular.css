@@ -1,0 +1,30 @@
+.content{
+  margin-top: 55px;
+  font-size: 2rem;
+   
+}
+.cardContainer{
+    margin-top: 50px;
+    display: flex;
+    /* justify-content: space-around; */
+    align-items: center;
+    gap: 10px;
+ 
+}
+.MostPop-Content{
+    background-color: #DDF5F7;
+    display: flex;
+    margin-top : 130px;
+    height: 100vh;
+    padding: 4rem;
+  
+}
+.cards{
+    height: 450px;
+    width: 300px;
+    background-color: #ffff;
+    border-radius: 15px;
+    
+    
+
+}
